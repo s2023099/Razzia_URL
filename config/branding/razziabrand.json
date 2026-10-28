@@ -1,0 +1,13 @@
+{
+  "colors": {
+    "primary": "#ff9900"
+  },
+  "answerColors": [
+    "#e69f00",
+    "#56b4e9",
+    "#3dbfa0",
+    "#cc79a7"
+  ],
+  "font": { "family": "Rubik" },
+  "background": "/branding/background.png"
+}

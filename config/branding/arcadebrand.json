@@ -1,0 +1,13 @@
+{
+  "colors": {
+    "primary": "#ff2e88"
+  },
+  "answerColors": [
+    "#ff2e88",
+    "#00c2e0",
+    "#f5b700",
+    "#7b2ff7"
+  ],
+  "font": { "family": "Press Start 2P" },
+  "background": "/branding/arcade.jpg"
+}

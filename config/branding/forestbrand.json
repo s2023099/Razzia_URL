@@ -1,0 +1,13 @@
+{
+  "colors": {
+    "primary": "#84cc16"
+  },
+  "answerColors": [
+    "#65a30d",
+    "#0d9488",
+    "#ca8a04",
+    "#9333ea"
+  ],
+  "font": { "family": "Space Grotesk" },
+  "background": "/branding/hills.jpg"
+}

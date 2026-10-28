@@ -1,0 +1,13 @@
+{
+  "colors": {
+    "primary": "#d9480f"
+  },
+  "answerColors": [
+    "#b45309",
+    "#9f1239",
+    "#4d7c0f",
+    "#0f766e"
+  ],
+  "font": { "family": "DM Serif Display" },
+  "background": "/branding/bistro.jpg"
+}

@@ -1,0 +1,13 @@
+{
+  "colors": {
+    "primary": "#2563eb"
+  },
+  "answerColors": [
+    "#ef4444",
+    "#3b82f6",
+    "#eab308",
+    "#22c55e"
+  ],
+  "font": { "family": "Fredoka" },
+  "background": "/branding/waves.jpg"
+}

@@ -1,0 +1,13 @@
+{
+  "colors": {
+    "primary": "#6366f1"
+  },
+  "answerColors": [
+    "#6366f1",
+    "#0ea5e9",
+    "#14b8a6",
+    "#f43f5e"
+  ],
+  "font": { "family": "system-ui" },
+  "background": "/branding/corporate.jpg"
+}
